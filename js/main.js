@@ -1,4 +1,4 @@
-// firs homework
+// first homework
 
 let number = 0;
 number = prompt('Каким является число?')
