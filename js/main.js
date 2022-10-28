@@ -1,9 +1,9 @@
 // first homework
 
-let number = 0;
-number = prompt('Каким является число?')
+let int = 0;
+int = prompt('Каким является число?')
 
-if (number % 2 === 0) {
+if (int % 2 === 0) {
     console.log('Чётное число')
 } else {
     console.log('Нечётное число')
